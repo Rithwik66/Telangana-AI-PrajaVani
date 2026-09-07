@@ -1,7 +1,12 @@
-text,department
-"Fallen power line sparking near main road",Electricity
-"Water supply pipe broken and leaking on street",Water
-"Garbage bin overflowing near market place",Sanitation
-"Pothole causing traffic congestion on flyover",Roads & Transport
-"Illegal encroachment on private property",Revenue
+complaint_id,language,raw_text,normalized_text,category,department,urgency_score
+C001,English,"There is a large pothole near the bus stop.","there is a large pothole near the bus stop","Roads / infrastructure","Roads / transport",4
+C002,Tanglish,"Maa area lo street lights work avvatledu.","maa area lo street lights work avvatledu","Civic services","Municipal / GHMC-type civic services",3
+C003,Telugu,"మా ప్రాంతంలో తాగునీటి సరఫరా సక్రమంగా లేదు.","మా ప్రాంతంలో తాగునీటి సరఫరా సక్రమంగా లేదు","Water supply","Water supply",3
+C004,English,"There is an exposed electrical wire near houses.","there is an exposed electrical wire near houses","Electrical safety","Electricity / power utility",5
+C005,English,"I have not received my eligible welfare pension.","i have not received my eligible welfare pension","Welfare / service delivery","Public health",3
+C006,Telugu,"మా భూమికి సంబంధించిన రెవెన్యూ రికార్డులో సమస్య ఉంది.","మా భూమికి సంబంధించిన రెవెన్యూ రికార్డులో సమస్య ఉంది","Land / revenue","Revenue / land administration",3
+C007,Tanglish,"School ki velladaniki road chala damage ayyindi.","school ki velladaniki road chala damage ayyindi","Roads / infrastructure","Roads / transport",3
+C008,English,"Garbage collection is not happening regularly in our locality.","garbage collection is not happening regularly in our locality","Sanitation","Sanitation / solid waste",3
+C009,Tanglish,"Bus stop daggara road lo pedda pothole undi.","bus stop daggara road lo pedda pothole undi","Roads / infrastructure","Roads / transport",4
+C010,English,"The water supply has been disrupted in our locality.","the water supply has been disrupted in our locality","Water supply","Water supply",3
 
