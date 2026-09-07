@@ -1,0 +1,161 @@
+complaint_id,text,category,department
+APV-D4-001,Road has a large pothole near the bus stop,road_pothole,roads_transport
+APV-D4-002,There are many potholes on the main road,road_pothole,roads_transport
+APV-D4-003,The road surface is badly damaged,road_damage,roads_transport
+APV-D4-004,The traffic signal is not working,traffic_signal,roads_transport
+APV-D4-005,The footpath is damaged and unsafe,footpath,roads_transport
+APV-D4-006,Please repair the damaged road,road_repair,roads_transport
+APV-D4-007,The bus stop is damaged,bus_stop,roads_transport
+APV-D4-008,There is heavy traffic because of road damage,traffic,roads_transport
+APV-D4-009,There is no proper road access to our village,road_access,roads_transport
+APV-D4-010,A pothole is causing problems for vehicles,road_pothole,roads_transport
+APV-D4-011,Street lights are not working in our area,street_light,municipal
+APV-D4-012,Garbage is accumulating near our house,garbage,municipal
+APV-D4-013,The municipal drain is overflowing,drainage,municipal
+APV-D4-014,Garbage collection has not happened for a week,waste_collection,sanitation
+APV-D4-015,The garbage bin is overflowing,garbage,sanitation
+APV-D4-016,Street cleaning is not happening regularly,sanitation,municipal
+APV-D4-017,Waste is being dumped near our colony,waste,sanitation
+APV-D4-018,The garbage vehicle is not coming,waste_collection,sanitation
+APV-D4-019,There is foul smell from accumulated waste,waste,sanitation
+APV-D4-020,Our street needs municipal maintenance,municipal_service,municipal
+APV-D4-021,Water supply has stopped for two days,water_supply,water
+APV-D4-022,We are not getting drinking water regularly,water_supply,water
+APV-D4-023,There is no water supply in our colony,water_supply,water
+APV-D4-024,Water pipeline is leaking near the road,water_leak,water
+APV-D4-025,The public water tap is not working,water_tap,water
+APV-D4-026,Water pressure is very low,water_pressure,water
+APV-D4-027,The water tanker has not arrived,water_tanker,water
+APV-D4-028,Dirty water is coming from the tap,water_quality,water
+APV-D4-029,Our locality has had no water since yesterday,water_supply,water
+APV-D4-030,Please fix the broken water pipeline,water_leak,water
+APV-D4-031,There is a frequent power cut in our area,power_cut,electricity
+APV-D4-032,Electricity supply has stopped since morning,power_cut,electricity
+APV-D4-033,The transformer near our street is damaged,transformer,electricity
+APV-D4-034,There is a problem with my electricity connection,electricity_connection,electricity
+APV-D4-035,Our house has voltage fluctuations,voltage,electricity
+APV-D4-036,Power goes off every evening,power_cut,electricity
+APV-D4-037,The electricity pole is damaged,pole_damage,electricity
+APV-D4-038,There has been no electricity for several hours,power_cut,electricity
+APV-D4-039,The electricity line is faulty,electricity_line,electricity
+APV-D4-040,Please resolve the power supply issue,electricity_supply,electricity
+APV-D4-041,My land record has incorrect information,land_record,revenue
+APV-D4-042,There is an error in my property records,property_record,revenue
+APV-D4-043,I need help with land registration,land_registration,revenue
+APV-D4-044,My mutation application has not been processed,land_mutation,revenue
+APV-D4-045,The survey number in my land record is wrong,land_record,revenue
+APV-D4-046,Please update my property ownership details,property_record,revenue
+APV-D4-047,I have a problem with my income certificate,income_certificate,revenue
+APV-D4-048,My certificate application is delayed,certificate,revenue
+APV-D4-049,There is a dispute regarding my land boundary,land_boundary,revenue
+APV-D4-050,I need a copy of my land ownership document,land_document,revenue
+APV-D4-051,There is a health issue at the local clinic,health_service,public_health
+APV-D4-052,The government hospital is not providing proper service,hospital_service,public_health
+APV-D4-053,The local health centre lacks medicines,medicine,public_health
+APV-D4-054,There are no doctors available at the public clinic,doctor_availability,public_health
+APV-D4-055,The ambulance service is delayed,ambulance,public_health
+APV-D4-056,The public hospital needs better sanitation,hospital_sanitation,public_health
+APV-D4-057,Medicines are not available at the government hospital,medicine,public_health
+APV-D4-058,The health centre is closed during working hours,health_centre,public_health
+APV-D4-059,Please address the issue at our government clinic,health_service,public_health
+APV-D4-060,The public hospital staff are not responding properly,hospital_service,public_health
+APV-D4-061,Someone is creating a law and order problem,police_complaint,police
+APV-D4-062,I want to report a theft in my locality,theft,police
+APV-D4-063,There is a dispute between people in our neighbourhood,dispute,police
+APV-D4-064,Please register my police complaint,police_complaint,police
+APV-D4-065,There is suspicious activity near our house,suspicious_activity,police
+APV-D4-066,We need police assistance in our area,police_assistance,police
+APV-D4-067,Someone is threatening residents in our street,threat,police
+APV-D4-068,There is a disturbance near the market,disturbance,police
+APV-D4-069,I need help from the local police,police_assistance,police
+APV-D4-070,Please take action regarding this law and order issue,law_order,police
+APV-D4-071,There is a problem with municipal property tax,property_tax,municipal
+APV-D4-072,The street drainage system needs repair,drainage,municipal
+APV-D4-073,Water is leaking from the main pipeline,water_leak,water
+APV-D4-074,The electricity transformer is making unusual noise,transformer,electricity
+APV-D4-075,My land ownership details are incorrect,property_record,revenue
+APV-D4-076,The government clinic has no medicines,medicine,public_health
+APV-D4-077,Please report the theft that happened near my home,theft,police
+APV-D4-078,The main road has dangerous potholes,road_pothole,roads_transport
+APV-D4-079,Garbage has not been collected from our street,garbage,municipal
+APV-D4-080,There is no drinking water in our locality,water_supply,water
+APV-D4-081,Potholes are damaging vehicles on our road,additional_example,roads_transport
+APV-D4-082,The main road needs immediate repair,additional_example,roads_transport
+APV-D4-083,Broken traffic signal is causing traffic,additional_example,roads_transport
+APV-D4-084,Footpath near the school is damaged,additional_example,roads_transport
+APV-D4-085,Road access to our locality is poor,additional_example,roads_transport
+APV-D4-086,The road surface has developed cracks,additional_example,roads_transport
+APV-D4-087,Traffic signal at the junction is faulty,additional_example,roads_transport
+APV-D4-088,Vehicles cannot use the damaged road,additional_example,roads_transport
+APV-D4-089,A large pothole is blocking the lane,additional_example,roads_transport
+APV-D4-090,Please repair the road near the bus stop,additional_example,roads_transport
+APV-D4-081,Street lights in our colony need repair,additional_example,municipal
+APV-D4-082,The municipal drain is blocked,additional_example,municipal
+APV-D4-083,Our locality needs street light maintenance,additional_example,municipal
+APV-D4-084,Property tax service has an issue,additional_example,municipal
+APV-D4-085,The public drain is overflowing,additional_example,municipal
+APV-D4-086,Municipal maintenance is required in our street,additional_example,municipal
+APV-D4-087,The street light has stopped working,additional_example,municipal
+APV-D4-088,Drainage cleaning is needed,additional_example,municipal
+APV-D4-089,Please resolve our municipal service complaint,additional_example,municipal
+APV-D4-090,The municipal office has not addressed our issue,additional_example,municipal
+APV-D4-081,Drinking water is unavailable in our area,additional_example,water
+APV-D4-082,Water supply is irregular in our colony,additional_example,water
+APV-D4-083,The water pipeline has a leak,additional_example,water
+APV-D4-084,There is very low water pressure,additional_example,water
+APV-D4-085,The public tap has stopped working,additional_example,water
+APV-D4-086,Water tanker service is delayed,additional_example,water
+APV-D4-087,The tap is supplying dirty water,additional_example,water
+APV-D4-088,Our area needs regular water supply,additional_example,water
+APV-D4-089,The main water pipeline is damaged,additional_example,water
+APV-D4-090,Please restore water supply immediately,additional_example,water
+APV-D4-081,Our locality has frequent power cuts,additional_example,electricity
+APV-D4-082,The power supply stopped this morning,additional_example,electricity
+APV-D4-083,The transformer needs urgent repair,additional_example,electricity
+APV-D4-084,There is a faulty electricity connection,additional_example,electricity
+APV-D4-085,Voltage is fluctuating frequently,additional_example,electricity
+APV-D4-086,The electricity pole is damaged,additional_example,electricity
+APV-D4-087,Power supply is unavailable at home,additional_example,electricity
+APV-D4-088,The electricity line needs repair,additional_example,electricity
+APV-D4-089,There is an outage in our street,additional_example,electricity
+APV-D4-090,Please restore electricity service,additional_example,electricity
+APV-D4-081,My land ownership record is incorrect,additional_example,revenue
+APV-D4-082,I have an issue with property registration,additional_example,revenue
+APV-D4-083,My land mutation request is pending,additional_example,revenue
+APV-D4-084,The survey details in my land record are wrong,additional_example,revenue
+APV-D4-085,I need to update property ownership,additional_example,revenue
+APV-D4-086,My income certificate is delayed,additional_example,revenue
+APV-D4-087,I need help with a land document,additional_example,revenue
+APV-D4-088,There is an error in my property record,additional_example,revenue
+APV-D4-089,My land boundary details are incorrect,additional_example,revenue
+APV-D4-090,Please resolve my revenue record issue,additional_example,revenue
+APV-D4-081,The government clinic needs medicines,additional_example,public_health
+APV-D4-082,The public hospital has no available doctor,additional_example,public_health
+APV-D4-083,Healthcare service at the clinic is poor,additional_example,public_health
+APV-D4-084,The ambulance has been delayed,additional_example,public_health
+APV-D4-085,The health centre is not providing medicines,additional_example,public_health
+APV-D4-086,The government hospital service needs improvement,additional_example,public_health
+APV-D4-087,The clinic is closed during working hours,additional_example,public_health
+APV-D4-088,There is a problem with hospital staff,additional_example,public_health
+APV-D4-089,Our health centre needs medical supplies,additional_example,public_health
+APV-D4-090,Please resolve this public health service issue,additional_example,public_health
+APV-D4-081,I want to report a theft,additional_example,police
+APV-D4-082,Police assistance is needed in our area,additional_example,police
+APV-D4-083,There is suspicious activity near my house,additional_example,police
+APV-D4-084,Someone is threatening people in our street,additional_example,police
+APV-D4-085,Please register my police complaint,additional_example,police
+APV-D4-086,There is a law and order problem here,additional_example,police
+APV-D4-087,A dispute needs police intervention,additional_example,police
+APV-D4-088,There is a disturbance near the market,additional_example,police
+APV-D4-089,We need help from the local police,additional_example,police
+APV-D4-090,Please take action on this police complaint,additional_example,police
+APV-D4-081,Garbage has not been collected from our street,additional_example,sanitation
+APV-D4-082,The waste bin is overflowing,additional_example,sanitation
+APV-D4-083,Open waste dumping is happening nearby,additional_example,sanitation
+APV-D4-084,Household garbage collection is delayed,additional_example,sanitation
+APV-D4-085,Our area needs solid waste cleaning,additional_example,sanitation
+APV-D4-086,Garbage is scattered around the road,additional_example,sanitation
+APV-D4-087,The waste collection vehicle is not arriving,additional_example,sanitation
+APV-D4-088,Uncollected waste is creating a bad smell,additional_example,sanitation
+APV-D4-089,Please arrange garbage collection,additional_example,sanitation
+APV-D4-090,Solid waste is accumulating in our locality,additional_example,sanitation
